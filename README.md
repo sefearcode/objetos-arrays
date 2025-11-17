@@ -5,6 +5,8 @@ Permite listar, buscar, prestar y devolver libros, con historial de usuarios y c
 Incluye estadísticas y reportes de popularidad.  
 
 ## Ejecutar
+
+
 ```bash
 node biblioteca.js
 
